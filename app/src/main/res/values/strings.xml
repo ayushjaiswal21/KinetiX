@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KinetiX</string>
+    <string name="app_name_lowercase">kinetix</string>
+    <string name="app_tagline">Transform Your Movement</string>
+    <string name="default_web_client_id">811411392371-mqk8b3s2vmmmtatg3am7137v0cob85km.apps.googleusercontent.com</string>
+    <string name="rep_count_format">Reps: %d</string>
+    <string name="waiting_for_pose">Get in position to start</string>
+    <string name="checking_posture">Analyzing your posture...</string>
+    <string name="posture_analysis">Posture Analysis</string>
+    <string name="close_button">Close</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="camera_initialization_failed">Camera initialization failed</string>
+
+</resources>

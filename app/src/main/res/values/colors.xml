@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primary">#FD7F20</color>
+    <color name="primary_variant">#0277BD</color>
+    <color name="secondary">#03DAC6</color>        <!-- Teal -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>     <!-- White for main headers -->
+    <color name="text_secondary">#B3FFFFFF</color> <!-- 70% white for secondary text -->
+
+    <!-- Streak Colors -->
+    <color name="streak_completed">#10BC10</color> <!-- Green for completed days -->
+    <color name="streak_upcoming">#424242</color>  <!-- Dark grey for upcoming days -->
+    <color name="streak_missed">#CF6679</color>    <!-- Red-ish for missed days -->
+
+    <!-- Bottom Nav Colors -->
+    <color name="bottom_nav_background">#1E1E1E</color>  <!-- Slightly lighter than background -->
+    <color name="bottom_nav_selected">#BB86FC</color>   <!-- Same as primary -->
+    <color name="bottom_nav_unselected">#757575</color> <!-- Grey for unselected items -->
+
+    <!-- Goal Achievement Colors -->
+    <color name="calories_goal_achieved">#FFB74D</color> <!-- Light Orange -->
+    <color name="water_goal_achieved">#64B5F6</color>    <!-- Light Blue -->
+    <color name="steps_goal_achieved">#4CAF50</color> <!-- Green for steps -->
+
+    <!-- Card Default Background -->
+    <color name="card_background">#1E1E1E</color>
+
+    <color name="stroke_color">#1F000000</color>
+    <color name="background">#121212</color>
+
+    <color name="good_form">#4CAF50</color>
+    <color name="bad_form">#F44336</color>
+    <color name="neutral_form">#757575</color>
+
+
+    <color name="confidence_poor">#FF5722</color>
+    <color name="good_form_background">#8033691E</color>
+    <color name="correction_needed_background">#80B71C1C</color>
+    <color name="confidence_excellent">#4CAF50</color>
+    <color name="confidence_good">#8BC34A</color>
+    <color name="confidence_fair">#FFC107</color>
+
+</resources>

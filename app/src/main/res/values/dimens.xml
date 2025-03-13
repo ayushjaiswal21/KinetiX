@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="exercise_image_height">250dp</dimen>
+    <dimen name="exercise_image_padding">8dp</dimen>
+    <dimen name="streak_item_spacing">4dp</dimen>
+</resources>

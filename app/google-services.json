@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811411392371",
+    "project_id": "kinematix-dd268",
+    "storage_bucket": "kinematix-dd268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811411392371:android:4031f362fc1c84200be706",
+        "android_client_info": {
+          "package_name": "com.asdevs.kinematix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811411392371-bekgjdcfvaks3dtn7448rqlpn3mn7dhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asdevs.kinematix",
+            "certificate_hash": "afdf8ab9e9aa928c44796be1a502707b3b07c225"
+          }
+        },
+        {
+          "client_id": "811411392371-r1c6conjek2tov1b8kabefai4qujp35q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asdevs.kinematix",
+            "certificate_hash": "f89a305c3326479eb21cf764f6cb9c43494cf8a8"
+          }
+        },
+        {
+          "client_id": "811411392371-mqk8b3s2vmmmtatg3am7137v0cob85km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJ3kK8x416pRzOBmJrBMQ8ZrPfwJ3JAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811411392371-mqk8b3s2vmmmtatg3am7137v0cob85km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
